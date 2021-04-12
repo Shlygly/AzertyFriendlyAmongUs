@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzertyFriendly": {
+      "commandName": "Executable",
+      "executablePath": "%amongus%\\Among Us.exe"
+    }
+  }
+}
